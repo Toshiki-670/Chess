@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		792E813D1D39CB91007D83E1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 792E813C1D39CB91007D83E1 /* main.cpp */; };
+		792E81461D39CC83007D83E1 /* chess.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 792E81441D39CC83007D83E1 /* chess.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		792E81391D39CB91007D83E1 /* Chess */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Chess; sourceTree = BUILT_PRODUCTS_DIR; };
 		792E813C1D39CB91007D83E1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		792E81441D39CC83007D83E1 /* chess.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = chess.cpp; path = ../chess.cpp; sourceTree = "<group>"; };
+		792E81451D39CC83007D83E1 /* chess.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = chess.hpp; path = ../chess.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				792E813C1D39CB91007D83E1 /* main.cpp */,
+				792E81451D39CC83007D83E1 /* chess.hpp */,
+				792E81441D39CC83007D83E1 /* chess.cpp */,
 			);
 			path = Chess;
 			sourceTree = "<group>";
@@ -118,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				792E81461D39CC83007D83E1 /* chess.cpp in Sources */,
 				792E813D1D39CB91007D83E1 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,6 +245,7 @@
 				792E81421D39CB91007D83E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
