@@ -4,14 +4,18 @@ The chess game was created by Toshiki for learn C++.
 ****Sorry... I'm English beginner.
 ****If you find typos, please tell me on my twitter.
 
+このプログラムは勉強を始めたばかりの頃、3ヶ月ほどかけて作りました。
+この頃はただ動くことを重視していたので読みづらいですが、
+そこは大目に見てください。
 
 -----------------------------
 Description
 
 This game is the classic chess.
-I had created it over three months.
+I had created it over  month.
 
 if move piece.
+Please enter the following command.
 
 xyab
 
