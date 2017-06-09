@@ -1,8 +1,8 @@
 # Chess
 The chess game was created by Toshiki for learn C++.
 
-****Sorry... I'm English beginner.
-****If you find typos, please tell me on my twitter.
+Sorry... I'm English beginner.
+If you find typos, please tell me on my twitter.
 
 このプログラムは勉強を始めたばかりの頃、3ヶ月ほどかけて作りました。
 この頃はただ動くことを重視していたので読みづらいですが、
